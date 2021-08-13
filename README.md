@@ -1,5 +1,5 @@
 # Do Zero ao ‘Salve Mundo!’ em AWS CDK
-> 2020-08-13
+> 2021-08-13
 
 Todo o código para o DevOps Extreme. Em breve faço uma postagem com o passo a passo!
 
