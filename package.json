@@ -6,7 +6,7 @@
     "@types/aws-lambda": "^8.10.82",
     "@types/node": "^16.6.1",
     "aws-sdk": "^2.967.0",
-    "esbuild": "^0.12.20",
+    "esbuild": "^0.25.0",
     "ts-node": "^10.2.0",
     "typescript": "^4.3.5"
   },
